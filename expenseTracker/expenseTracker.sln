@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "expenseTracker", "expenseTracker\expenseTracker.csproj", "{F8DC011A-5828-4312-A4B3-E41B9042FF32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "expenseTracker", "expenseTracker\expenseTracker.csproj", "{F8DC011A-5828-4312-A4B3-E41B9042FF32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{6D74C378-62EE-41E4-8857-CC5BEE6BE265}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F8DC011A-5828-4312-A4B3-E41B9042FF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8DC011A-5828-4312-A4B3-E41B9042FF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8DC011A-5828-4312-A4B3-E41B9042FF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D74C378-62EE-41E4-8857-CC5BEE6BE265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D74C378-62EE-41E4-8857-CC5BEE6BE265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D74C378-62EE-41E4-8857-CC5BEE6BE265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D74C378-62EE-41E4-8857-CC5BEE6BE265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

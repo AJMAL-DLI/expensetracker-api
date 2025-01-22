@@ -1,0 +1,6 @@
+D:\DEVELOPEMENT\COMPANY WORKS\ExpenseTracker\expensetracker-api\expenseTracker\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\DEVELOPEMENT\COMPANY WORKS\ExpenseTracker\expensetracker-api\expenseTracker\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPEMENT\COMPANY WORKS\ExpenseTracker\expensetracker-api\expenseTracker\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\DEVELOPEMENT\COMPANY WORKS\ExpenseTracker\expensetracker-api\expenseTracker\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\DEVELOPEMENT\COMPANY WORKS\ExpenseTracker\expensetracker-api\expenseTracker\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\DEVELOPEMENT\COMPANY WORKS\ExpenseTracker\expensetracker-api\expenseTracker\Core\obj\Debug\net8.0\Core.sourcelink.json
